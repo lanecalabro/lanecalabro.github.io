@@ -81,5 +81,5 @@ deploy:
   type: git
   repo: https://github.com/lanecalabro/lmd.git
   branch: gh-pages
-  email: czito.dev@gmail.com
+  email: lanecalabro@gmail.com
   name: Lane
