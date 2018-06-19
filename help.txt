@@ -37,4 +37,4 @@ Steps:
 3.) Add changes and commit
 4.) Push changes to github
 5.) hexo clean
-6.) hexo deploy --generate
+6.) hexo deploy -g
