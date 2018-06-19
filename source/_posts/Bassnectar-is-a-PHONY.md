@@ -15,4 +15,4 @@ jellybeans
 
 ##### OH NO
 
-![Butterphant unhappy](/images/bn.jpg)
+![Butterphant unhappy!!!](/lmd/images/bn.jpg)
