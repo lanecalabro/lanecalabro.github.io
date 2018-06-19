@@ -2,6 +2,7 @@
 title: Bassnectar is a PHONY!
 date: 2018-06-15 10:16:02
 tags:
+cover_image:/lmd/images/bn.jpg
 ---
 The King of Bass was discovered to actually be a being composed of over 1 thousand rats!
 
