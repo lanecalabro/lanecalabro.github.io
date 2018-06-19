@@ -1,0 +1,40 @@
+Open nodejs command prompt
+
+Use 'cd DIRECTORY' to get into you repo's folder
+ex: cd ./github/lmd
+
+check what files were changed:
+git status
+
+see the changes in the files:
+git diff
+
+add your changes to the next commit:
+(from your repo's folder ie ~/github/lmd)
+git add .
+
+commit your changes
+git commit -m "this is the message (just use letters,numbers,spaces)"
+
+commit and add simultaneioyslkdjfsly
+git commit -am "message yo"
+
+push to your branch:
+git push origin branch_name
+
+get current branch name
+git branch
+
+clean shit up:
+hexo clean
+
+deploy:
+hexo deploy -g
+
+Steps:
+1.) Make changes
+2.) Verify changes with git status and git diff
+3.) Add changes and commit
+4.) Push changes to github
+5.) hexo clean
+6.) hexo deploy =g
