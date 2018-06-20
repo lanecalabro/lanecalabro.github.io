@@ -38,3 +38,12 @@ Steps:
 4.) Push changes to github
 5.) hexo clean
 6.) hexo deploy -g
+
+
+LC Notes
+
+For text embedded image
+![tag](\lmd\imagelink.jpg)
+
+For text embedded link
+[link text](link.com)
