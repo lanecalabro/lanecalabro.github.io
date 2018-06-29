@@ -1,6 +1,6 @@
 ---
 title: Landscape Studio
-date: 2018-06-20 08:16:42
+date: 2013-06-20 08:16:42
 cover_image: \images\gardenbedsperspectiveFINAL.jpg
 ---
 CU Boulder | Spring 2013
