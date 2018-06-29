@@ -1,6 +1,6 @@
 ---
 title: CO State Capitol Flagpole
-date: 2018-06-19 13:57:03
+date: 2016-10-19 13:57:03
 cover_image: \images\20161121_142648.jpg
 ---
 Living Design Studios Inc. | Fall 2016

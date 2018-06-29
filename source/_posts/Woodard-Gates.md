@@ -1,6 +1,6 @@
 ---
 title: Woodard Gates
-date: 2018-06-20 12:51:34
+date: 2016-06-20 12:51:34
 cover_image: images\IMG_5244.JPG
 ---
 Living Design Studios Inc. | Spring 2016

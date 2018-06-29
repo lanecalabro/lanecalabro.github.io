@@ -1,6 +1,6 @@
 ---
 title: David Johnston Architects Internship
-date: 2018-06-20 08:48:01
+date: 2013-06-20 08:48:01
 cover_image: \images\IMG_1205 (1).jpg
 ---
 Aspen, CO | Summer 2013

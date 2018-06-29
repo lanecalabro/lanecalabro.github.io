@@ -1,6 +1,6 @@
 ---
 title: Conceptual Lighting Design
-date: 2018-06-20 08:34:05
+date: 2014-06-20 08:34:05
 cover_image: \images\IMG_4393.jpg
 ---
 CU Boulder | Summer 2014

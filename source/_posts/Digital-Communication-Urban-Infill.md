@@ -1,6 +1,6 @@
 ---
 title: Digital Communication Urban Infill
-date: 2018-06-19 14:47:28
+date: 2012-04-19 14:47:28
 cover_image: \images\Phase 3 Model 3.jpg
 ---
 CU Boulder | Spring 2012

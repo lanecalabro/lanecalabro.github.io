@@ -1,6 +1,6 @@
 ---
 title: Larson Drive Copper Ceiling
-date: 2018-06-20 08:27:01
+date: 2017-08-20 08:27:01
 cover_image: \images\20170627_085910.jpg
 ---
 Living Design Studios Inc. | Summer 2017

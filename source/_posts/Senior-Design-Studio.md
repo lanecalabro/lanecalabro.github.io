@@ -1,6 +1,6 @@
 ---
 title: Senior Design Studio
-date: 2018-06-20 08:42:47
+date: 2014-10-20 08:42:47
 cover_image: \images\DSC_2576.JPG
 ---
 CU Boulder | Fall 2014

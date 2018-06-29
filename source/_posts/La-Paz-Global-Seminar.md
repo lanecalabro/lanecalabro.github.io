@@ -1,6 +1,6 @@
 ---
 title: La Paz Global Seminar
-date: 2018-06-20 08:55:08
+date: 2014-06-20 08:55:08
 cover_image: \images\DSCN2610.JPG
 ---
 CU Boulder | Summer 2014

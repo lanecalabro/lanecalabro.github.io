@@ -1,6 +1,6 @@
 ---
 title: Auraria Campus Library
-date: 2018-06-19 13:16:29
+date: 2016-09-19 13:16:29
 cover_image: \images\C_Auraria.JPG
 ---
 Living Design Studios Inc. | Fall 2016

@@ -1,6 +1,6 @@
 ---
 title: Merritt Residence Railings
-date: 2018-06-20 12:40:17
+date: 2017-02-20 12:40:17
 cover_image: images\IMG_7268.jpg
 ---
 Living Design Studios Inc. | February 2017

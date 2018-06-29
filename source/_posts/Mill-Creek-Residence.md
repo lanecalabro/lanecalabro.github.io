@@ -1,6 +1,6 @@
 ---
 title: Mill Creek Residence
-date: 2018-06-19 14:15:03
+date: 2015-10-19 14:15:03
 cover_image: \images\IMG_5414 (1).JPG
 ---
 Living Design Studios Inc. | Fall 2015

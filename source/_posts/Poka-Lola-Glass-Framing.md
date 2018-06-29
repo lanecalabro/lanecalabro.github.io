@@ -1,6 +1,6 @@
 ---
 title: Poka Lola Glass Framing
-date: 2018-06-20 13:02:23
+date: 2016-12-20 13:02:23
 cover_image: images\IMG_7572.jpg
 ---
 Living Design Studios | Winter 2016

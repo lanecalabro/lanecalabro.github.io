@@ -1,6 +1,6 @@
 ---
 title: North Boulder Pergola
-date: 2018-06-20 12:54:02
+date: 2016-08-20 12:54:02
 cover_image: images\IMG_5210.jpg
 ---
 Living Design Studios Inc. | Summer 2016

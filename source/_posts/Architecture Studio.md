@@ -1,6 +1,6 @@
 ---
 title: Architecture Studio
-date: 2018-06-19 12:53:44
+date: 2013-10-19 12:53:44
 cover_image: /images/ARCHSTUDIO2.JPG
 ---
 CU Boulder | Fall 2013
