@@ -83,3 +83,8 @@ deploy:
   branch: gh-pages
   email: lanecalabro@gmail.com
   name: Lane
+
+  # Header
+menu:
+  About: /About
+  Contact: /Contact
