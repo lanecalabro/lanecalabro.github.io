@@ -1,7 +1,7 @@
 Open nodejs command prompt
 
 Use 'cd DIRECTORY' to get into you repo's folder
-ex: cd ./github/lmd
+ex: cd .\github\lanecalabro.github.io
 
 check what files were changed:
 git status
