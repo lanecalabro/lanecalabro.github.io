@@ -79,7 +79,7 @@ theme: edinburgh
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lanecalabro/lanecalabro.git
+  repo: https://github.com/lanecalabro/lanecalabro.github.io.git
   branch: master
   email: lanecalabro@gmail.com
   name: Lane
