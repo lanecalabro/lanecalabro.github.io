@@ -13,7 +13,11 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+<<<<<<< HEAD
 url: https://lanecalabro.github.io/lanecalabro
+=======
+url: https://lanecalabro.github.io/
+>>>>>>> cc42361b8eb98b638e9252b2d768de3155832595
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
