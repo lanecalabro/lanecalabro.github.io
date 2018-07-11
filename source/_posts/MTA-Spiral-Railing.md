@@ -1,7 +1,7 @@
 ---
 title: MTA Spiral Railing
 date: 2015-09-19 13:24:26
-cover_image: \images\SAM_1944 (2).jpg
+cover_image: images\SAM_1944 (2).jpg
 tags:
 ---
 Living Design Studios Inc. | Fall 2015

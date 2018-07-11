@@ -1,7 +1,7 @@
 ---
 title: Landscape Studio
 date: 2013-06-20 08:16:42
-cover_image: \images\gardenbedsperspectiveFINAL.jpg
+cover_image: images\gardenbedsperspectiveFINAL.jpg
 ---
 CU Boulder | Spring 2013
 For my final design project for the landscape emphasis semester, I designed a boardwalk that
