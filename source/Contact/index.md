@@ -9,4 +9,4 @@ Location | Denver + Boulder + Aspen
 Ph. # | (970) 987-3705
 E-mail | lane@lanemariedesign.com
 LinkedIn | https://www.linkedin.com/in/lane-marie-calabro-b57356124/
-Instagram | (@lanemariedesign)[https://www.instagram.com/lanemariedesign/?hl=en]
+Instagram | [@lanemariedesign](https://www.instagram.com/lanemariedesign/?hl=en)
